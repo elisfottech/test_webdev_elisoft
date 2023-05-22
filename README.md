@@ -1,9 +1,8 @@
 # Soal Ujian Web Developer Elisoft Technology
 
 Silahkan kerjakan beberapa soal dibawah menggunakan Framework PHP Laravel ataupun menggunakan Laravel Vue Js menambah nilai plus.
->_ Jika sudah silahkan push ke github/gitlab Private dengan format test_webdev_elisoft_NamaAnda. Lalu undang username berikut
+> Jika selesai mengerjakan silahkan push ke github/gitlab Private dengan format test_webdev_elisoft_NamaAnda. Lalu undang username berikut
 reiulen, elisofttech. Terima kasih
-
 
 #
 ### **Soal 1 - Profile Picture Generator**
